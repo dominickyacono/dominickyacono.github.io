@@ -23,7 +23,7 @@ The Chicago dashboard preview is served from its existing GitHub image URL. Skyl
 - Owner confirmation: returning to JPMorganChase in 2027
 
 The Chicago dashboard is archived; its project link points to the repository.
-Night markets is labeled as a group project. No unverified job title or performance metrics are claimed.
+Night markets is labeled as a group project. The background section lists past organizations without implying current membership.
 
 ## Skyline photographs
 
