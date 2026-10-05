@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 48" role="img" aria-labelledby="title desc">
+  <title id="title">JPMorganChase</title>
+  <desc id="desc">JPMorganChase blue octagon mark and wordmark</desc>
+  <path fill="#117aca" d="M18 0h12l18 18v12L30 48H18L0 30V18z"/>
+  <path fill="#fff" d="M18 8h12l10 10v12L30 40H18L8 30V18z"/>
+  <path fill="#117aca" d="M18 14h12l4 4v12l-4 4H18l-4-4V18z"/>
+  <text x="60" y="31" fill="#e9f1f7" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="-.5">JPMorganChase</text>
+</svg>
